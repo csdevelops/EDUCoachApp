@@ -1,0 +1,7 @@
+{
+  "name": "EduCoach Pro",
+  "description": "A modern toolkit for education professionals featuring AI-powered coaching templates, smart scheduling, and task management.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
